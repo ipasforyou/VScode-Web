@@ -7,7 +7,7 @@ URL=https://github.com/cdr/code-server/releases/download/v$VERSION/code-server-$
 FILE=/home/runner/$USERNAME/code-server-$VERSION-linux-amd64
 USER_DATA=/home/runner/$USERNAME/user-data/
 
-PASSWORD=SashiDev
+PASSWORD=thundr
 
 export PASSWORD=$PASSWORD
 mkdir $USER_DATA
